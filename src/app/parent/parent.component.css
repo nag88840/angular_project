@@ -1,0 +1,10 @@
+:host {
+    justify-content: center;
+    align-items: center;
+    background: #865e5e;
+    border: 2px solid red;
+    border-radius: 3px;
+    height: 400px;
+    width: 400px;
+    display: block;
+}

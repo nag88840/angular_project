@@ -1,6 +1,6 @@
 import { Component, NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { ChildComponent } from './child/child.component';
+import { ChildComponent } from './child/ChildComponent';
 import { ParentComponent } from './parent/parent.component';
  
 

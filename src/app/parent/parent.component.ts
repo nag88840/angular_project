@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrl: './parent.component.css'
 })
 export class ParentComponent {
-
+message : string ="Hello message from Parent "
 }
